@@ -13,3 +13,4 @@ SpeechRecognition
 openai
 pynput
 pyaudio
+django>=4.2.26 # not directly required, pinned by Snyk to avoid a vulnerability

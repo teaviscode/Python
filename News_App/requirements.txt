@@ -4,3 +4,4 @@ gunicorn ==23.0.0
 simple-websocket
 flask-sock 
 yfinance
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability

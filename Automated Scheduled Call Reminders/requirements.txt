@@ -12,3 +12,4 @@ credentials
 firestore
 initialize_app
 Twilio
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
